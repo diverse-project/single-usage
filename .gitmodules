@@ -1,0 +1,18 @@
+[submodule "tools/monitoring/syscall"]
+	path = tools/monitoring/syscall
+	url = git@gist.github.com:6f73d26d0ea1ece5a301c8b68eff556c.git
+[submodule "tools/monitoring/yajta"]
+	path = tools/monitoring/yajta
+	url = git@github.com:diverse-project/yajta.git
+[submodule "tools/diversification/sosiefier"]
+	path = tools/diversification/sosiefier
+	url = git@github.com:DIVERSIFY-project/sosiefier.git
+[submodule "tools/diversification/diversify-mvn"]
+	path = tools/diversification/diversify-mvn
+	url = git@github.com:maxleiko/diversify-mvn.git
+[submodule "tools/diversification/liven"]
+	path = tools/diversification/liven
+	url = git@github.com:diverse-project/liven.git
+[submodule "xp/diversify-jicofo"]
+	path = xp/diversify-jicofo
+	url = git@github.com:maxleiko/diversify-jicofo.git
