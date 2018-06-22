@@ -28,9 +28,7 @@ This repositoru contains a set of tools to automatically generate mutants for st
 
 ![](https://hackmd.diverse-team.fr/uploads/upload_068d78b0ca8306f458605e955c306e7b.png)
 
-
-
-## Content
+In this toolchain, we propose six main projects.
   - `tools/`
     - `diversification/`
       - [`sosiefier`](https://github.com/DIVERSIFY-project/sosiefier) is a project that aims at exploring the space of sosie of a Java program (ie. program variants that passes the original test suite)
